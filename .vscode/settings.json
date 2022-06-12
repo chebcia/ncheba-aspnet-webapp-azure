@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "ncheba-aspnet-webapp/bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/fda02494-bd7b-4dfb-a7e3-87217201af7f/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/ncheba-aspnet-webapp-azure-vscode"
+}
